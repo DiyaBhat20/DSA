@@ -39,7 +39,7 @@ public:
           {
             if(i==0 && j==0)
             {
-              prev[j]=1;
+              prev[j]=temp[j]=1;
               continue;
             }
 
